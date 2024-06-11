@@ -3,7 +3,7 @@
 ! Description: Unblocking every blizzards domain
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.004
+! Version: 1
 ! Syntax: AdBlock
 !
 @@||battle.net^
