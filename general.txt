@@ -6,9 +6,13 @@
 ! Version: 0.005
 ! Syntax: AdBlock
 !
+# Blocking
 ||spotify.com
 ||graph.facebook.com
 ||graph.whatsapp.com
+
+# Unblocking
+@@||russia*.discord.media
 @@||local.adguard.org^
 @@||api.adguard.org^
 @@||filters.adtidy.org^
