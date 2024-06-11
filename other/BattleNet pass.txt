@@ -1,0 +1,36 @@
+! Title: CouZ's Blizzard Pass
+! Expires: 14 days
+! Description: Unblocking every blizzards domain
+! Homepage: https://github.com/CouZ1337/DNS-UserList
+! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
+! Version: 0.004
+! Syntax: AdBlock
+!
+@@||battle.net^
+@@||*.battle.net^
+@@||battlenet.com.cn^
+@@||*.battlenet.com.cn^
+@@||blizzard.cn^
+@@||*.blizzard.cn^
+@@||blizzard.com^
+@@||*.blizzard.com^
+@@||blizzardgames.cn^
+@@||*.blizzardgames.cn^
+@@||blz-contentstack.com^
+@@||*.blz-contentstack.com^
+@@||blz.dev^
+@@||*.blz.dev^
+@@||blzstatic.cn^
+@@||*.blzstatic.cn^
+@@||bnet.163.com^
+@@||*.bnet.163.com^
+@@||bnet.cn^
+@@||*.bnet.cn^
+@@||akamaihd.net^
+@@||*.akamaihd.net^
+@@||discourse.cloud^
+@@||*.discourse.cloud^
+@@||llnwd.net^
+@@||*.llnwd.net^
+@@||footprint.net^
+@@||*.footprint.net^
