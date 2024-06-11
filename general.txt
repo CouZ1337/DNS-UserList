@@ -10,3 +10,5 @@
 ||graph.facebook.com
 ||graph.whatsapp.com
 @@||local.adguard.org^
+@@||api.adguard.org^
+@@||filters.adtidy.org^
