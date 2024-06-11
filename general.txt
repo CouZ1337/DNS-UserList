@@ -1,10 +1,10 @@
-! Title: CouZ's DNS UserList
-! Description: Blocking or unblocking some usefull(less) staff.
-! Homepage: https://github.com/CouZ1337/DNS-UserList
-! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.003
-! Syntax: AdBlock
-!
-||sotify.com^
-||graph.facebook.com
-||graph.whatsapp.com
+# Title: CouZ's DNS UserList
+# Description: Blocking or unblocking some usefull(less) staff.
+# Homepage: https://github.com/CouZ1337/DNS-UserList
+# License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
+# Version: 0.003
+# Syntax: AdBlock
+#
+sotify.com
+graph.facebook.com
+graph.whatsapp.com
