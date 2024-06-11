@@ -2,7 +2,7 @@
 # Description: Blocking or unblocking some usefull(less) staff.
 # Homepage: https://github.com/CouZ1337/DNS-UserList
 # License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-# Version: 0.003
+# Version: 0.004
 # Syntax: AdBlock
 #
 sotify.com
