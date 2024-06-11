@@ -7,3 +7,4 @@
 # Syntax: AdGuard (domains)
 ||sotify.com^
 ||graph.facebook.com
+||graph.whatsapp.com
