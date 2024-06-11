@@ -6,3 +6,4 @@
 # Version: 1
 # Syntax: AdGuard (domains)
 ||sotify.com^
+||graph.facebook.com
