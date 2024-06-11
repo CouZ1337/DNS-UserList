@@ -4,6 +4,7 @@
 # License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
 # Version: 0.002
 # Syntax: AdBlock
+#
 ||sotify.com^
 ||graph.facebook.com
 ||graph.whatsapp.com
