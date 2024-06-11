@@ -3,7 +3,7 @@
 # Homepage: https://github.com/CouZ1337/DNS-UserList
 # License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
 # Expires: 7 day
-# Version: 1
+# Version: 0.001
 # Syntax: AdBlock
 ||sotify.com^
 ||graph.facebook.com
