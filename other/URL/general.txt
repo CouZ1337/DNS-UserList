@@ -3,10 +3,13 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.01
+! Version: 0.02
 ! Syntax: AdBlock
 !
 # Whitelisting:
 @@||russia*.discord.media^$app=Discord.exe
 
 # Blacklisting:
+discord.com###app-mount > div.appAsidePanelWrapper__5e6e2:nth-child(5) > div.notAppAsidePanel__95814:first-child > div.app_b1f720:first-child > div.app_de4237 > div.layers__1c917.layers_a23c37:last-child > div.layer_f7d46a.baseLayer__2b890 > div.container_d1f8f5 > div.base_c0676e:last-child > div.content__76dcf > div.sidebar_e031be:first-child > nav.privateChannels__9b518:first-child > div.scroller__89969.thin_b1c063.scrollerBase_f742b2.fade_ba0fa0:last-child > ul.content__690c5 > li.channel__0aef5.container__3792d:nth-child(3)
+discord.com###app-mount > div.appAsidePanelWrapper__5e6e2:nth-child(5) > div.notAppAsidePanel__95814:first-child > div.app_b1f720:first-child > div.app_de4237 > div.layers__1c917.layers_a23c37:last-child > div.layer_f7d46a.baseLayer__2b890 > div.container_d1f8f5 > div.base_c0676e:last-child > div.content__76dcf > div.sidebar_e031be:first-child > nav.privateChannels__9b518:first-child > div.scroller__89969.thin_b1c063.scrollerBase_f742b2.fade_ba0fa0:last-child > ul.content__690c5 > li.channel__0aef5.container__3792d:nth-child(4)
+discord.com###app-mount > div.appAsidePanelWrapper__5e6e2:nth-child(5) > div.notAppAsidePanel__95814:first-child > div.app_b1f720:first-child > div.app_de4237 > div.layers__1c917.layers_a23c37:last-child > div.layer_f7d46a.baseLayer__2b890 > div.container_d1f8f5 > div.base_c0676e:last-child > div.content__76dcf > div.chat__52833:nth-child(2) > div.subtitleContainer_f50402:nth-child(2) > section.title_d4ba1a.container__26baa.themed_b152d4 > div.upperContainer__57565 > div.toolbar__62fb5:last-child > a.anchor_c8ddc0.anchorUnderlineOnHover__03b72:last-child
