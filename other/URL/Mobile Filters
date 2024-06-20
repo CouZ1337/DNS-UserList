@@ -1,0 +1,54 @@
+! Title: CouZ's Url Filters (ph)
+! Expires: 14 days
+! Description: Custom mobile filters for every usefull site
+! Homepage: https://github.com/CouZ1337/DNS-UserList
+! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
+! Version: 0.01
+! Syntax: AdBlock
+
+||mail.ru^$app=ru.vk.store
+||odkl.ru^$app=ru.vk.store
+||rebus.rustore.ru^$app=ru.vk.store
+||vkpns.rustore.ru^$app=ru.vk.store
+||google.com^$app=com.yowhatsapp
+||youtube.com^$app=com.swiftsoft.anixartd
+||i.mycdn.me^$app=com.swiftsoft.anixartd
+||odkl.ru^$app=ru.mail.search.electroscope
+||mradx.net^$app=ru.vk.store
+@@||mobileproxy.passport.yandex.net^$generichide,stealth
+@@||ynison.music.yandex.net^$stealth,generichide
+@@||external-api.mediabilling.yandex.ru^$stealth,generichide
+||google.com^$important,app=com.whatsapp
+@@||ynison.music.yandex.net$generichide
+@@||vtosters.app^$stealth
+||raw.githubusercontent.com^$stealth,app=com.vtosters.lite
+@@||email-link.adtidy.org^$app=com.vivaldi.browser
+@@||alt-aj-https.mail.ru^$generichide,app=ru.mail.search.electroscope
+@@||vk.*$generichide,app=ru.mail.search.electroscope
+@@||vk.ru^$stealth,app=ru.mail.search.electroscope
+||google.ru^$app=com.radolyn.ayugram
+||google.com^$app=com.radolyn.ayugram
+@@||vk.com^$stealth,app=ru.mail.search.electroscope
+||dbankcloud.ru^$important, stealth,app=com.vk.mail
+@@||vk.com^$stealth,app=com.vk.mail
+@@||smailru.net^$stealth,app=ru.mail.search.electroscope
+@@||mail.ru^$stealth,app=ru.mail.search.electroscope
+||yandex.ru^$stealth,app=ru.yandex.weatherplugin
+@@||yastatic.net^$stealth,app=ru.yandex.weatherplugin
+||yaoilib.me^$app=org.koitharu.kotatsu
+||yaoi-chan.me^$domain=v3.yaoi-chan.me,app=org.koitharu.kotatsu
+||yandex.ru^$app=ru.radiationx.anilibria.app
+||yandex.ru^$app=ru.libapp
+|https://yandex.ru$important,app=ru.yandex.weatherplugin
+||static-maps.yandex.ru^$app=ru.yandex.weatherplugin
+||ams*.cdn.digitaloceanspaces.com^$app=ginlemon.flowerfree
+||facebook.com^$app=com.mi.android.globalFileexplorer
+||media-adv.market.yandex.ru^$app=ru.beru.android
+||*strm.yandex.net^$app=ru.beru.android
+||strm.yandex.ru^$app=ru.beru.android
+@@||verify.proton.me
+|https://yandex.ru$app=ru.kinopoisk
+@@||210.150^$app=com.google.android.youtube
+**||210.170^$app=com.google.android.youtube
+||kaspersky-labs.com^$app=ru.vk.store
+||stats.rustore.ru^$app=ru.sberbankmobile
