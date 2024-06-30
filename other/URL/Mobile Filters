@@ -3,7 +3,7 @@
 ! Description: Custom mobile filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.01
+! Version: 0.01.5
 ! Syntax: AdBlock
 
 ||mail.ru^$app=ru.vk.store
@@ -52,3 +52,4 @@
 **||210.170^$app=com.google.android.youtube
 ||kaspersky-labs.com^$app=ru.vk.store
 ||stats.rustore.ru^$app=ru.sberbankmobile
+||inappstory.ru^$app=ru.vk.store
