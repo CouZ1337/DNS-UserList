@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.03.2
+! Version: 0.03.3
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -11,8 +11,6 @@
 
 ! Blacklisting:
 ||discord.com/api/v*/users/@me/library?country_code=*$app=Discord.exe
-! Useless api code on my opinion, beta rule
-||ajay.app^$domain=discord.com,app=Discord.exe
 
 ! Ban nitro badge on homepage
 discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(5) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > div.sidebar_a4d4d9:first-child > nav.privateChannels_f0963d:first-child > div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8:last-child > ul.content_eed6a8 > li.channel_c91bad.container_b15955:nth-child(3) 
