@@ -3,7 +3,7 @@
 ! Description: (Un)Blocking some useless(full) staff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.008
+! Version: 0.008.1
 ! Syntax: AdBlock
 !
 # Blocking
@@ -12,7 +12,7 @@
 ||graph.whatsapp.com
 ||merchandise.opera-api2.com^
 ||r0.mradx.net^
-||collections.md.mp.microsoft.com^ # testing what if..
+||collections.md.mp.microsoft.com^
 ||events.gfe.nvidia.com
 
 # Unblocking
