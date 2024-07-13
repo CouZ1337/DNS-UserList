@@ -5,7 +5,7 @@
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
 ! Version: 0.008.1
 ! Syntax: AdBlock
-!
+
 # Blocking
 ||spotify.com
 ||graph.facebook.com
@@ -14,6 +14,7 @@
 ||r0.mradx.net^
 ||collections.md.mp.microsoft.com^
 ||events.gfe.nvidia.com
+||events.data.microsoft.com^
 
 # Unblocking
 @@||russia*.discord.media
