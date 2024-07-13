@@ -3,13 +3,15 @@
 ! Description: (Un)Blocking some useless(full) staff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.007.5
+! Version: 0.008
 ! Syntax: AdBlock
 !
 # Blocking
 ||spotify.com
 ||graph.facebook.com
 ||graph.whatsapp.com
+||merchandise.opera-api2.com^
+||r0.mradx.net^
 ||collections.md.mp.microsoft.com^ # testing what if..
 ||events.gfe.nvidia.com
 
