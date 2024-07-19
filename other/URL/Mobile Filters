@@ -52,5 +52,6 @@
 ||stats.rustore.ru^$app=ru.sberbankmobile
 ||inappstory.ru^$app=ru.vk.store
 ||kaspersky.com^$app=ru.vk.store
+||vk-analytics.ru^$app=ru.vk.store
 ||kaspersky.com^$app=ru.sberbankmobile
 ||2gis.com^$app=ru.sberbankmobile
