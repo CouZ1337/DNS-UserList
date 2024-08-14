@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.03.5.9
+! Version: 0.03.6
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -19,3 +19,5 @@ discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(5) > div.not
 ! HELP button hiddings
 discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(5) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > main.container_c2739c:last-child > section.theme-dark.images-dark.container_fc4f04.themed_fc4f04:first-child > div.upperContainer_fc4f04 > div.toolbar_fc4f04:last-child > a.anchor_af404b.anchorUnderlineOnHover_af404b:last-child
 discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(5) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > div.chat_a7d72e:nth-child(2) > div.subtitleContainer_a7d72e:nth-child(2) > section.title_a7d72e.container_fc4f04.themed_fc4f04 > div.upperContainer_fc4f04 > div.toolbar_fc4f04:last-child > a.anchor_af404b.anchorUnderlineOnHover_af404b:last-child
+! Stream config ads
+discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(5) > div.notAppAsidePanel_bd26cc:first-child > div.layerContainer_cd0de5:nth-child(4) > div.layer_c9e2da:last-child > div.focusLock_f9a4c9 > div.modalSize_e1cc86.root_f9a4c9.fullscreenOnMobile_f9a4c9.rootWithShadow_f9a4c9 > form:last-child > div:nth-child(2) > div > div.modalSize_e1cc86 > div.modalContent_e1cc86:last-child > div.qualitySettingsContainer_a78967:last-child > div.upsellBanner_f59576.enhancedBanner_f59576:last-child
