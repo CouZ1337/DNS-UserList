@@ -1,0 +1,25 @@
+! Title: CouZ's Mobile filters (family)
+! Expires: 14 days
+! Description: (Un)Blocking some useless(full) staff.
+! Homepage: https://github.com/CouZ1337/DNS-UserList
+! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
+! Version: 0.001.alpha
+! Syntax: AdBlock
+
+@@||adguard.org^
+@@||adguard.info^
+@@||agrd.eu^
+@@||adguard-dns.io^
+@@||adguard-dns.com^
+@@||filters.adtidy.org^
+@@||userscripts.adtidy.org^
+
+||trk.mail.ru^
+||r.mail.ru^
+||vk-analytics.ru^
+||radar.imgsmail.ru^
+||kaspersky.com^
+||kaspersky-labs.com^
+
+||graph.facebook.com
+||facebook.com^
