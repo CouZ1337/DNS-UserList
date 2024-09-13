@@ -3,7 +3,7 @@
 ! Description: Custom mobile filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.2
+! Version: 0.04.3
 ! Syntax: AdBlock
 
 ||mail.ru^$app=ru.vk.store
@@ -53,6 +53,8 @@
 ||vk-analytics.ru^$app=ru.vk.store
 ||kaspersky.com^$app=ru.sberbankmobile
 ||2gis.com^$app=ru.sberbankmobile
+pornhub.com##div[id*=age-verification-wrapper]
+pornhub.com##div[id*=age-verification-container]
 
 ||yandex.ru^$app=com.xiaomi.mipicks
 
