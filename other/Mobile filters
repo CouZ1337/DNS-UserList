@@ -3,7 +3,7 @@
 ! Description: (Un)Blocking some useless(full) staff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.009.2.alpha
+! Version: 0.009.3.alpha
 ! Syntax: AdBlock
 
 ||usercentrics.eu^
@@ -47,3 +47,15 @@
 @@||adguard-dns.com^
 @@||filters.adtidy.org^
 @@||userscripts.adtidy.org^
+
+! Works only on patched apks with custom certificate
+||api.rustore.ru/event/$app=ru.vk.store
+||api.rustore.ru/user-event-handler/v1/uploadEvents$app=ru.vk.store
+||backapi.rustore.ru/survey/$app=ru.vk.store
+||backapi.rustore.ru/user/notification$app=ru.vk.store
+||backapi.rustore.ru/applicationData/user/*/recommendation$app=ru.vk.store
+||backapi.rustore.ru/applicationData/recommendation?appId=*$app=ru.vk.store
+||static.rustore.ru/selection/cover/$app=ru.vk.store
+||vkvd*.okcdn.ru^$app=ru.vk.store
+||vkvd*.mycdn.me^$app=ru.vk.store
+||api.vk.com/method/video.get$app=ru.vk.store
