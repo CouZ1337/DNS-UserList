@@ -3,7 +3,7 @@
 ! Description: Unblocking every blizzards domain
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 1.1
+! Version: 1.2
 ! Syntax: AdBlock
 !
 @@||battle.net^
@@ -27,11 +27,11 @@
 @@||*.bnet.163.com^
 @@||bnet.cn^
 @@||*.bnet.cn^
-@@||akamaihd.net^
-@@||*.akamaihd.net^
-@@||discourse.cloud^
-@@||*.discourse.cloud^
-@@||llnwd.net^
-@@||*.llnwd.net^
-@@||footprint.net^
-@@||*.footprint.net^
+! @@||akamaihd.net^
+! @@||*.akamaihd.net^
+! @@||discourse.cloud^
+! @@||*.discourse.cloud^
+! @@||llnwd.net^
+! @@||*.llnwd.net^
+! @@||footprint.net^
+! @@||*.footprint.net^
