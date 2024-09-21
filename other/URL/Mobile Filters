@@ -6,7 +6,7 @@
 ! Version: 0.04.6
 ! Syntax: AdBlock
 
-||mail.ru^$app=ru.vk.store
+||mail.ru^$app=ru.vk.store,important
 ||odkl.ru^$app=ru.vk.store
 ||rebus.rustore.ru^$app=ru.vk.store
 ||vkpns.rustore.ru^$app=ru.vk.store
