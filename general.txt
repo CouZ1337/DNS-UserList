@@ -3,7 +3,7 @@
 ! Description: (Un)Blocking some useless(full) staff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.008.4
+! Version: 0.008.5
 ! Syntax: AdBlock
 
 # Blocking
@@ -26,10 +26,10 @@
 @@||mc.hypixel.net
 @@||*.mc.hypixel.net
 
-@@||adguard.org^
-@@||adguard.info^
-@@||agrd.eu^
-@@||adguard-dns.io^
-@@||adguard-dns.com^
-@@||filters.adtidy.org^
-@@||userscripts.adtidy.org^
+! @@||adguard.org^
+! @@||adguard.info^
+! @@||agrd.eu^
+! @@||adguard-dns.io^
+! @@||adguard-dns.com^
+! @@||filters.adtidy.org^
+! @@||userscripts.adtidy.org^
