@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.03.9
+! Version: 0.03.9.9
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -14,7 +14,7 @@ ya.ru##div[class*="Distribution-SplashScreenModal"]:has(a[href^="https://ya.ru/s
 pornhub.com##div[id*=age-verification-wrapper]
 pornhub.com##div[id*=age-verification-container]
 
-NexusMod
+! NexusMod
 nexusmods.com##.premium-block
 nexusmods.com##div[class^="premium-block"]
 nexusmods.com###news-content
