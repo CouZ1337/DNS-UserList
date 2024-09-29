@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.03.9.10
+! Version: 0.03.10
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -17,6 +17,7 @@ pornhub.com##div[id*=age-verification-container]
 ! NexusMod
 nexusmods.com##.premium-block
 nexusmods.com##div[class^="premium-block"]
+nexusmods.com##div[id*=nonPremiumBanner]
 nexusmods.com###news-content
 nexusmods.com##a[href^="https://www.nexusmods.com/news/"]
 nexusmods.com##a[href^="https://staticdelivery.nexusmods.com/images/News/"]
