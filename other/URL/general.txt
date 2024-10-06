@@ -3,13 +3,17 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.03.10
+! Version: 0.04.01
 ! Syntax: AdBlock
 
 ! Whitelisting:
 @@||russia*.discord.media^$app=Discord.exe
 
 ! Blacklisting:
+||discord.com/api/v9/outbound-promotions$app=Discord.exe
+||discord.com/api/v9/users/@me/collectibles-marketing$app=Discord.exe
+
+! CSS
 ya.ru##div[class*="Distribution-SplashScreenModal"]:has(a[href^="https://ya.ru/search/_crpd/"])
 pornhub.com##div[id*=age-verification-wrapper]
 pornhub.com##div[id*=age-verification-container]
