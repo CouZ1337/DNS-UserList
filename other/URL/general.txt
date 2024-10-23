@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.02
+! Version: 0.04.03
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -33,6 +33,11 @@ nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col
 nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > tbody:nth-child(2) > tr:nth-child(6) > td:last-child
 nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > tbody:nth-child(2) > tr:last-child > td:last-child
 nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > tfoot:last-child > tr > td:last-child
+
+! Other sites
+mangalib.me##div[class^="comments__rules"]
+hentailib.me##div[class^="comments__rules"]
+hentailib.me##div[class^="popup-root"]
 
 ! Ban nitro badge on homepage
 discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(5) > div.notAppAsidePanel_bd26cc:first-child > div.app_bd26cc:first-child > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1:last-child > div.layer_d4b6c5.baseLayer_d4b6c5 > div.container_a4d4d9 > div.base_a4d4d9:last-child > div.content_a4d4d9 > div.sidebar_a4d4d9:first-child > nav.privateChannels_f0963d:first-child > div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8:last-child > ul.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-child(3)
