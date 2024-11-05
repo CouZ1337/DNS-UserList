@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.05
+! Version: 0.04.06
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -55,3 +55,10 @@ discord.com###app-mount > div.appAsidePanelWrapper_bd26cc:nth-child(5) > div.not
 ||*.exitlag.net/event*/*$app=ExitLag.exe
 ||exitlag.com/blog/$app=ExitLag.exe
 ||*.exitlag.net:443/statistics$app=ExitLag.exe
+
+! YM (ЯМа) app
+||api.music.yandex.net/landing-blocks/artists$app=Яндекс Музыка.exe
+||widget.afisha.yandex.ru^$app=Яндекс Музыка.exe
+||yastatic.net/s3/afisha*/$app=Яндекс Музыка.exe
+||api.music.yandex.net/donation/$app=Яндекс Музыка.exe
+||api.music.yandex.net/concerts/$app=Яндекс Музыка.exe
