@@ -3,7 +3,7 @@
 ! Description: (Un)Blocking some useless(full) staff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.004.5.alpha
+! Version: 0.004.6.alpha
 ! Syntax: AdBlock
 
 @@||adguard.org^
@@ -15,6 +15,7 @@
 @@||userscripts.adtidy.org^
 
 ||mradx.net^
+||ms.vk.com^
 ||trk.mail.ru^
 ||r.mail.ru^
 ||vk-analytics.ru^
@@ -75,3 +76,7 @@ www.googleadservices.com
 ||collector.xhwide2.com^
 ||doppiocdn.net^
 ||strpst.com^
+||mssdk-ru.tiktokv.com^
+||bodis.com^
+||goya.rutube.ru^
+||api.vigo.ru^
