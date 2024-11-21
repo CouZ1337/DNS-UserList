@@ -19,6 +19,14 @@
 ||events.data.microsoft.com^
 ||log.booster.gearupportal.com^
 ||event.sc.gearupportal.com^
+||browser.sentry-cdn.com
+||app.getsentry.com
+||stats.wp.com
+||tools.mouseflow.com
+||mouseflow.com
+||wd.adcolony.com
+||events3alt.adcolony.com
+||adc3-launch.adcolony.com
 
 # Unblocking
 @@||russia*.discord.media
