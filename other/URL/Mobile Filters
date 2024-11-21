@@ -3,7 +3,7 @@
 ! Description: Custom mobile filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.05.05
+! Version: 0.05.05.9
 ! Syntax: AdBlock
 
 ||mail.ru^$app=ru.vk.store,important
@@ -66,6 +66,7 @@ pornhub.com##div[id*=age-verification-container]
 ||sentry.io^$app=com.supercell.clashofclans
 
 ||ads.rustore.ru
+||sdk-api.apptracer.ru^
 
 ! Works only on patched apks with custom certificate
 ||api.rustore.ru/event/$app=ru.vk.store
@@ -75,7 +76,6 @@ pornhub.com##div[id*=age-verification-container]
 ||backapi.rustore.ru/applicationData/user/*/recommendation$app=ru.vk.store
 ||backapi.rustore.ru/applicationData/recommendation?appId=*$app=ru.vk.store
 ||static.rustore.ru/selection/cover/$app=ru.vk.store
-
 ||static.rustore.ru/icon/gambling.svg$app=ru.vk.store
 ||backapi.rustore.ru/v1/categories/gambling$app=ru.vk.store
 ||static.rustore.ru/icon/games/casino.svg$app=ru.vk.store
