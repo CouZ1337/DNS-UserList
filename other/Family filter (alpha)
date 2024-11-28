@@ -3,7 +3,7 @@
 ! Description: (Un)Blocking some useless(full) staff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.004.8.2.alpha
+! Version: 0.004.9.alpha
 ! Syntax: AdBlock
 
 @@||adguard.org^
@@ -28,7 +28,15 @@
 
 ||graph.facebook.com
 ||facebook.com^
-
+||analytics.google.com
+||click.googleanalytics.com
+||notify.bugsnag.com
+||sessions.bugsnag.com
+||api.bugsnag.com
+||browser.sentry-cdn.com
+||app.getsentry.com
+||ads.pinterest.com
+||adtech.yahooinc.com
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||clienttracing-pa.googleapis.com^
