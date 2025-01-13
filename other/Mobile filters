@@ -3,7 +3,7 @@
 ! Description: (Un)Blocking some useless(full) staff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.010.alpha
+! Version: 0.010.1.alpha
 ! Syntax: AdBlock
 
 ||usercentrics.eu^
@@ -40,6 +40,7 @@
 ||adtech.yahooinc.com
 ||telemetry.dzen.ru^
 ||sentry.lenta.tech^
+||sentry.dns-shop.ru^
 
 ||r.mail.ru^
 ||vk-analytics.ru^
