@@ -3,7 +3,7 @@
 ! Description: (Un)Blocking some useless(full) staff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.008.7
+! Version: 0.008.8
 ! Syntax: AdBlock
 
 # Blocking
@@ -36,6 +36,7 @@
 ||app.getsentry.com
 ||ads.pinterest.com
 ||adtech.yahooinc.com
+||sentry.dns-shop.ru^
 
 # Unblocking
 @@||russia*.discord.media
