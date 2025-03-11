@@ -3,7 +3,7 @@
 ! Description: Filter that enhances privacy by removing tracking parameters from URLs.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.00.02
+! Version: 0.00.03
 ! Syntax: AdBlock
 
 ! Yandex
@@ -18,3 +18,7 @@ $removeparam=from,domain=ya.ru
 $removeparam=icookie,domain=market.yandex.ru
 $removeparam=src_pof,domain=market.yandex.ru
 $removeparam=wprid,domain=market.yandex.ru
+$removeparam=sku,domain=market.yandex.ru
+$removeparam=offerid,domain=market.yandex.ru
+$removeparam=show-uid,domain=market.yandex.ru
+$removeparam=uniqueId,domain=market.yandex.ru
