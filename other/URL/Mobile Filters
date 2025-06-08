@@ -96,6 +96,9 @@ nexusmods.com###news-content
 nexusmods.com##a[href^="https://www.nexusmods.com/news/"]
 nexusmods.com##a[href^="https://staticdelivery.nexusmods.com/images/News/"]
 
+! News
+tvknews.ru##a[href^="/bitrix/rk.php"]
+
 ! Other sites
 
 mangalib.me##div[class^="comments__rules"]
