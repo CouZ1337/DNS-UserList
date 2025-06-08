@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.09
+! Version: 0.04.10
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -52,6 +52,9 @@ discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.not
 discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d:first-child > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4:last-child > div.standardSidebarView__23e6b > div.sidebarRegion__23e6b:first-child > div.sidebarRegionScroller__23e6b.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > nav.sidebar__23e6b:first-child > div.side_b3f026 > div.socialLinks__7df54:nth-child(51)
 ! Vencord im sorry
 discord.com###vencordsettings-tab > div > div.vc-special-card
+
+! News
+tvknews.ru##a[href^="/bitrix/rk.php"]
 
 ! ExitLag inapp useless staff
 ||*.exitlag.net/event*/*$app=ExitLag.exe
