@@ -1,6 +1,6 @@
 ! Title: CouZ's DNS UserList
 ! Expires: 14 days
-! Description: (Un)Blocking some useless(full) staff.
+! Description: (Un)Blocking some useless(full) stuff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
 ! Version: 0.008.8
