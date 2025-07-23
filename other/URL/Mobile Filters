@@ -3,7 +3,7 @@
 ! Description: Custom mobile filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.05.08
+! Version: 0.05.09
 ! Syntax: AdBlock
 
 ||mail.ru^$app=ru.vk.store,important
@@ -87,6 +87,7 @@ pornhub.com##div[id*=age-verification-container]
 ||vkvd*.okcdn.ru^$app=ru.vk.store
 ||vkvd*.mycdn.me^$app=ru.vk.store
 ||api.vk.com/method/video.get$app=ru.vk.store
+||kbr.rustore.ru/v3/tracking$app=ru.vk.store
 
 ! NexusMods
 nexusmods.com##.premium-block
