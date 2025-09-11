@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.10
+! Version: 0.04.11
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -55,6 +55,7 @@ discord.com###vencordsettings-tab > div > div.vc-special-card
 
 ! News
 tvknews.ru##a[href^="/bitrix/rk.php"]
+tvknews.ru##.sidebar_block, .banner_block
 
 ! ExitLag inapp useless staff
 ||*.exitlag.net/event*/*$app=ExitLag.exe
