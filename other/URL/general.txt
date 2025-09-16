@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.11
+! Version: 0.04.12
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -22,19 +22,20 @@ web.telegram.org##div[class^="SponsoredMessage"]
 web.telegram.org##div[class^="bubble is-sponsored"]
 
 ! NexusMod
-nexusmods.com##.premium-block
-nexusmods.com##div[class^="premium-block"]
-nexusmods.com##div[id*=nonPremiumBanner]
-nexusmods.com###news-content
+nexusmods.com##div[class="flex justify-center"]
+nexusmods.com##div[class^="border-primary-moderate"]
+nexusmods.com##.border-creator-moderate
+nexusmods.com##.border-translucent-200
+nexusmods.com##div[class="text-left"]
+nexusmods.com###mainContent > div.relative.border-b.border-stroke-subdued.pb-20 > div.relative.next-container:last-child > div.space-y-16:last-child > section:nth-child(8)
+nexusmods.com###mainContent > div.relative.border-b.border-stroke-subdued.pb-20 > div.relative.next-container:last-child > div.space-y-16:last-child > section:nth-child(3)
+nexusmods.com##div[class^="rj-supporter-wrapper"]
+nexusmods.com###rj-vortex
+nexusmods.com###action-nmm
+nexusmods.com##a[href^="https://www.nexusmods.com/premium"]
+nexusmods.com##a[href^="https://users.nexusmods.com/account/billing/premium"]
 nexusmods.com##a[href^="https://www.nexusmods.com/news/"]
 nexusmods.com##a[href^="https://staticdelivery.nexusmods.com/images/News/"]
-
-nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > thead:first-child > tr > th:last-child
-nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > tbody:nth-child(2) > tr:nth-child(2) > td:last-child
-nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > tbody:nth-child(2) > tr:nth-child(4) > td:last-child
-nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > tbody:nth-child(2) > tr:nth-child(6) > td:last-child
-nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > tbody:nth-child(2) > tr:last-child > td:last-child
-nexusmods.com###section > div.wrap.clearfix > div.wrap.flex:last-child > div.col-1-1:last-child > div.tabs > div.tabcontent.tabcontent-mod-page:last-child > div.container:first-child > div.page-layout > div.table:nth-child(5) > table > tfoot:last-child > tr > td:last-child
 
 ! Other sites
 mangalib.me##div[class^="comments__rules"]
