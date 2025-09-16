@@ -3,13 +3,13 @@
 ! Description: (Un)Blocking some useless(full) stuff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.010.2.alpha
+! Version: 0.010.3.alpha
 ! Syntax: AdBlock
 
 ||usercentrics.eu^
-||spotify.com^
+! ||spotify.com^ / my bad
 ||graph.facebook.com
-||facebook.com^
+! ||facebook.com^ / yep
 ||graph.whatsapp.com^
 ||yaoilib.me^
 ||yaoi-chan.me^
