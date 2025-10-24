@@ -3,11 +3,11 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.12
+! Version: 0.04.13
 ! Syntax: AdBlock
 
 ! Whitelisting:
-@@||russia*.discord.media^$app=Discord.exe
+! None
 
 ! Blacklisting:
 ||discord.com/api/v9/outbound-promotions$app=Discord.exe
@@ -43,16 +43,19 @@ hentailib.me##div[class^="comments__rules"]
 hentailib.me##div[class^="popup-root"]
 suno.com###v4_promo_sidebar
 
+! DISCORD
 ! Ban nitro badge on homepage
-discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d:first-child > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > div.base_c48ade > div.content_c48ade:last-child > div.sidebar_c48ade:first-child > div.sidebarList_c48ade.sidebarListRounded_c48ade:nth-child(2) > nav.privateChannels__35e86 > div.scroller__99e7c.thin__99f8c.scrollerBase__99f8c.fade__99f8c:last-child > ul.content__99f8c > li.channel__972a0.container_e45859:nth-child(3)
+discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > div.base_c48ade > div.content_c48ade:last-child > div.sidebar_c48ade.theme-dark.images-dark:first-child > div.sidebarList_c48ade.sidebarListRounded_c48ade:nth-child(2) > nav.privateChannels__35e86 > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2:last-child > ul.content_d125d2 > li.channel__972a0.container_e45859:nth-child(3)
 ! Ban shop badge on homepage
-discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d:first-child > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > div.base_c48ade > div.content_c48ade:last-child > div.sidebar_c48ade:first-child > div.sidebarList_c48ade.sidebarListRounded_c48ade:nth-child(2) > nav.privateChannels__35e86 > div.scroller__99e7c.thin__99f8c.scrollerBase__99f8c.fade__99f8c:last-child > ul.content__99f8c > li.channel__972a0.container_e45859:nth-child(4)
+discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > div.base_c48ade > div.content_c48ade:last-child > div.sidebar_c48ade.theme-dark.images-dark:first-child > div.sidebarList_c48ade.sidebarListRounded_c48ade:nth-child(2) > nav.privateChannels__35e86 > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2:last-child > ul.content_d125d2 > li.channel__972a0.container_e45859:nth-child(4)
+! Ban quests badge on homepage
+discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > div.base_c48ade > div.content_c48ade:last-child > div.sidebar_c48ade.theme-dark.images-dark:first-child > div.sidebarList_c48ade.sidebarListRounded_c48ade:nth-child(2) > nav.privateChannels__35e86 > div.scroller__99e7c.thin_d125d2.scrollerBase_d125d2.fade_d125d2:last-child > ul.content_d125d2 > li.channel__972a0.container_e45859:nth-child(5)
 ! HELP button hiddings
-discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d:first-child > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > div.base_c48ade > div.bar_c38106:first-child > div.trailing_c38106:last-child > a.anchor_edefb8.anchorUnderlineOnHover_edefb8:nth-child(3)
+discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4.baseLayer__960e4 > div.container_c48ade > div.base_c48ade > div.bar_c38106.theme-dark.images-dark:first-child > div.trailing_c38106:last-child > a.anchor_edefb8.anchorUnderlineOnHover_edefb8:nth-child(3)
 ! Hide social links
-discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d:first-child > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4:last-child > div.standardSidebarView__23e6b > div.sidebarRegion__23e6b:first-child > div.sidebarRegionScroller__23e6b.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > nav.sidebar__23e6b:first-child > div.side_b3f026 > div.socialLinks__7df54:nth-child(51)
+discord.com###app-mount > div.appAsidePanelWrapper_a3002d:nth-child(5) > div.notAppAsidePanel_a3002d > div.app_a3002d:first-child > div.app__160d8 > div.layers__960e4.layers__160d8:last-child > div.layer__960e4:last-child > div.standardSidebarView__23e6b > div.sidebarRegion__23e6b.theme-dark.images-dark:first-child > div.sidebarRegionScroller__23e6b.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > nav.sidebar__23e6b:first-child > div.side_aa8da2 > div.socialLinks__7df54:nth-child(50)
 ! Vencord im sorry
-discord.com###vencordsettings-tab > div > div.vc-special-card
+discord.com###settings\/tabs-tab > section > div.vc-special-card.vc-special-card-special.cardPrimary__73069.card__73069:nth-child(2)
 
 ! News
 tvknews.ru##a[href^="/bitrix/rk.php"]
