@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.13
+! Version: 0.04.14
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -36,6 +36,14 @@ nexusmods.com##a[href^="https://www.nexusmods.com/premium"]
 nexusmods.com##a[href^="https://users.nexusmods.com/account/billing/premium"]
 nexusmods.com##a[href^="https://www.nexusmods.com/news/"]
 nexusmods.com##a[href^="https://staticdelivery.nexusmods.com/images/News/"]
+
+! Conay (conan exiles custom mod loader)
+||raw.githubusercontent.com/RatajVaver/conay/main/servers.json$app=Conay.exe
+||ratajmods.net/conay/servers.json$app=Conay.exe
+
+! Modrinth launcher
+@@||sessionserver.mojang.com^$app=Modrinth App.exe
+||modrinth.com/wrapper/app-ads
 
 ! Other sites
 mangalib.me##div[class^="comments__rules"]

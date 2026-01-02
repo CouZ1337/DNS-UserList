@@ -3,13 +3,12 @@
 ! Description: (Un)Blocking some useless(full) stuff.
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.008.9
+! Version: 0.008.10
 ! Syntax: AdBlock
 
 # Blocking
 ! ||spotify.com / i was wrong dear
 ! ||facebook.com / next time
-||graph.whatsapp.com
 ||merchandise.opera-api2.com^
 ||r0.mradx.net^
 ||collections.md.mp.microsoft.com^
@@ -37,6 +36,11 @@
 ||ads.pinterest.com
 ||adtech.yahooinc.com
 ||sentry.dns-shop.ru^
+
+# Optional
+||modrinth.host^
+||modrinth.plus^
+||graph.whatsapp.com
 
 # Unblocking
 @@||russia*.discord.media
