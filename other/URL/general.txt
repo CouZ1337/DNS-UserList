@@ -3,7 +3,7 @@
 ! Description: Custom filters for every usefull site
 ! Homepage: https://github.com/CouZ1337/DNS-UserList
 ! License: https://github.com/CouZ1337/DNS-UserList/blob/main/LICENSE
-! Version: 0.04.14
+! Version: 0.04.15
 ! Syntax: AdBlock
 
 ! Whitelisting:
@@ -50,6 +50,7 @@ mangalib.me##div[class^="comments__rules"]
 hentailib.me##div[class^="comments__rules"]
 hentailib.me##div[class^="popup-root"]
 suno.com###v4_promo_sidebar
+||mkstats.mk69.su/api/*
 
 ! DISCORD
 ! Ban nitro badge on homepage
